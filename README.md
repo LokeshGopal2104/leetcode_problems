@@ -12,6 +12,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0047-permutations-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0051-n-queens/) | Hard |
 | [0216-combination-sum-iii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0216-combination-sum-iii/) | Medium |
+| [1046-last-stone-weight](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1046-last-stone-weight/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +77,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [1046-last-stone-weight](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1046-last-stone-weight/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
