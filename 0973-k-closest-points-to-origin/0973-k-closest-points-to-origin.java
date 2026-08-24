@@ -18,17 +18,13 @@ class Solution {
 
         for( int [] point : points ){
             
-            int x = Math.abs(
-                        point[0]*point[0]
-                    );
-
-            int y = Math.abs(
-                        point[1]*point[1]
-                    );
+            int x = point[0]*point[0];
+            int y = point[1]*point[1];
+                
             maxHeap.offer(
                 new Point(
                     point,
-                    Math.sqrt(x+y)
+                    x+y
                 )
             );
                 
