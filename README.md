@@ -9,6 +9,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0001-two-sum](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0001-two-sum/) | Easy |
 | [0037-sudoku-solver](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0037-sudoku-solver/) | Hard |
 | [0040-combination-sum-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0040-combination-sum-ii/) | Medium |
+| [0046-permutations](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0051-n-queens/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -47,6 +48,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0022-generate-parentheses](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0037-sudoku-solver](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0037-sudoku-solver/) | Hard |
 | [0040-combination-sum-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0040-combination-sum-ii/) | Medium |
+| [0046-permutations](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0051-n-queens/) | Hard |
 | [0093-restore-ip-addresses](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0093-restore-ip-addresses/) | Medium |
