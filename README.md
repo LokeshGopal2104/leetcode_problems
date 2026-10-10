@@ -18,6 +18,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0621-task-scheduler](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1046-last-stone-weight](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1046-last-stone-weight/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 ## Hash Table
@@ -69,6 +70,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0621-task-scheduler](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 ## Algorithm X
 | Problem Name | Difficulty |
@@ -168,4 +170,8 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0621-task-scheduler](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0621-task-scheduler/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
