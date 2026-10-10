@@ -39,6 +39,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0093-restore-ip-addresses](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0344-reverse-string](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0344-reverse-string/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Dynamic Programming
@@ -181,5 +182,6 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0011-container-with-most-water](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0344-reverse-string](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0344-reverse-string/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
