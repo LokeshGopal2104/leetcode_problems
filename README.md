@@ -51,6 +51,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0046-permutations](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0051-n-queens/) | Hard |
+| [0077-combinations](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0077-combinations/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0216-combination-sum-iii/) | Medium |
