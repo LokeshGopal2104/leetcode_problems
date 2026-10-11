@@ -34,6 +34,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0037-sudoku-solver](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0037-sudoku-solver/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -42,6 +43,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0022-generate-parentheses](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -215,6 +217,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1052-grumpy-bookstore-owner](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1052-grumpy-bookstore-owner/) | Medium |
