@@ -49,6 +49,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0680-valid-palindrome-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0844-backspace-string-compare](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0844-backspace-string-compare/) | Easy |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -211,4 +212,5 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 <!---LeetCode Topics End-->
