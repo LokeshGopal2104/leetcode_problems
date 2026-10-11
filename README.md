@@ -43,6 +43,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0131-palindrome-partitioning](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0344-reverse-string](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0392-is-subsequence/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -52,6 +53,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0392-is-subsequence](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0392-is-subsequence/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -192,6 +194,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0283-move-zeroes](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0392-is-subsequence/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0844-backspace-string-compare](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0844-backspace-string-compare/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
