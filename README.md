@@ -15,6 +15,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0046-permutations](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0051-n-queens/) | Hard |
+| [0053-maximum-subarray](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -59,6 +60,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0022-generate-parentheses/) | Medium |
+| [0053-maximum-subarray](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0392-is-subsequence](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0392-is-subsequence/) | Easy |
 ## Backtracking
@@ -148,6 +150,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0973-k-closest-points-to-origin/) | Medium |
