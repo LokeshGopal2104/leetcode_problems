@@ -109,6 +109,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
@@ -140,6 +141,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
@@ -230,4 +232,12 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
