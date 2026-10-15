@@ -23,6 +23,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0216-combination-sum-iii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0216-combination-sum-iii/) | Medium |
 | [0283-move-zeroes](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0455-assign-cookies/) | Easy |
 | [0605-can-place-flowers](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0605-can-place-flowers/) | Easy |
 | [0621-task-scheduler](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0621-task-scheduler/) | Medium |
@@ -93,6 +94,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0215-kth-largest-element-in-an-array](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0455-assign-cookies/) | Easy |
 | [0621-task-scheduler](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -204,6 +206,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0455-assign-cookies/) | Easy |
 | [0605-can-place-flowers](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0605-can-place-flowers/) | Easy |
 | [0621-task-scheduler](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0621-task-scheduler/) | Medium |
