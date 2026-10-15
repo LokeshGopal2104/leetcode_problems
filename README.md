@@ -24,6 +24,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0283-move-zeroes](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0455-assign-cookies/) | Easy |
+| [0605-can-place-flowers](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0605-can-place-flowers/) | Easy |
 | [0621-task-scheduler](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0621-task-scheduler/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -202,6 +203,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0011-container-with-most-water](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0455-assign-cookies/) | Easy |
+| [0605-can-place-flowers](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0605-can-place-flowers/) | Easy |
 | [0621-task-scheduler](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0621-task-scheduler/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0860-lemonade-change](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0860-lemonade-change/) | Easy |
