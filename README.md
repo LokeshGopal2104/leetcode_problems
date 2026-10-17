@@ -16,6 +16,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0047-permutations-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0179-largest-number](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0179-largest-number/) | Medium |
@@ -72,6 +73,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0392-is-subsequence](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0392-is-subsequence/) | Easy |
@@ -216,6 +218,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0011-container-with-most-water/) | Medium |
+| [0055-jump-game](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0179-largest-number](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0179-largest-number/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0435-non-overlapping-intervals/) | Medium |
