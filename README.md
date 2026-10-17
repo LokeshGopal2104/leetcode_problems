@@ -12,6 +12,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0027-remove-element](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0027-remove-element/) | Easy |
 | [0037-sudoku-solver](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0037-sudoku-solver/) | Hard |
 | [0040-combination-sum-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0040-combination-sum-ii/) | Medium |
+| [0045-jump-game-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0051-n-queens/) | Hard |
@@ -72,6 +73,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0022-generate-parentheses/) | Medium |
+| [0045-jump-game-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -218,6 +220,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0011-container-with-most-water/) | Medium |
+| [0045-jump-game-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0179-largest-number](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0179-largest-number/) | Medium |
