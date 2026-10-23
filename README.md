@@ -81,6 +81,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0131-palindrome-partitioning](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0392-is-subsequence](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0392-is-subsequence/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0509-fibonacci-number](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0509-fibonacci-number/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -204,6 +205,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0509-fibonacci-number](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0509-fibonacci-number/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
@@ -295,4 +297,12 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
