@@ -5,10 +5,8 @@ class Solution {
         Arrays.fill(dp,-1);
         int n = nums.length;
         int max = 0;
-        for(int i = 0;i<n;i++){
-            max = Math.max(max, solve(nums,i,dp));
-        }
-        return max;
+        return solve(nums,0,dp);
+        
     }
 
     public int solve(int [] nums, int index, int [] dp){
@@ -19,7 +17,7 @@ class Solution {
 
 
 
-        dp[index] = nums[index] + Math.max(solve(nums,index+2,dp),solve(nums,index+3,dp));
+        dp[index] = Math.max(nums[index]+solve(nums,index+2,dp),solve(nums,index+1,dp));
 
         return dp[index];
     }
