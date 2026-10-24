@@ -37,6 +37,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0643-maximum-average-subarray-i](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0740-delete-and-earn](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0860-lemonade-change](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0860-lemonade-change/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -56,6 +57,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0451-sort-characters-by-frequency](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0621-task-scheduler](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0740-delete-and-earn](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0740-delete-and-earn/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,6 +89,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0435-non-overlapping-intervals](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0509-fibonacci-number/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [0740-delete-and-earn](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Backtracking
