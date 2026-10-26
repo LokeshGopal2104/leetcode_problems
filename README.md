@@ -64,6 +64,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0022-generate-parentheses](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0022-generate-parentheses/) | Medium |
+| [0091-decode-ways](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0091-decode-ways/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0179-largest-number](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0179-largest-number/) | Medium |
@@ -83,6 +84,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0053-maximum-subarray](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0070-climbing-stairs/) | Easy |
+| [0091-decode-ways](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0091-decode-ways/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0198-house-robber](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0198-house-robber/) | Medium |
