@@ -47,6 +47,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1710-maximum-units-on-a-truck/) | Easy |
+| [2140-solving-questions-with-brainpower](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,6 +93,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0740-delete-and-earn](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [2140-solving-questions-with-brainpower](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
