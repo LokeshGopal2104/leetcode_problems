@@ -46,6 +46,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [1052-grumpy-bookstore-owner](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2140-solving-questions-with-brainpower](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 ## Hash Table
@@ -289,6 +290,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
