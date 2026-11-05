@@ -37,6 +37,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0643-maximum-average-subarray-i](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0704-binary-search](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0704-binary-search/) | Easy |
 | [0740-delete-and-earn](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0860-lemonade-change](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0860-lemonade-change/) | Easy |
@@ -166,6 +167,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0700-search-in-a-binary-search-tree](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0704-binary-search](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0704-binary-search/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
