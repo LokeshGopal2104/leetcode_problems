@@ -42,16 +42,32 @@ class Solution {
         dummy.next = head;
         ListNode prev = dummy;
 
-        while(prev.next != null && prev.next.next != null){
-            ListNode first = prev.next;
-            ListNode second = prev.next.next;
-            ListNode temp = second.next;
-            prev.next = second;
-            second.next = first;
-            first.next = temp;
-            prev = first;
-        }
+        // while(prev.next != null && prev.next.next != null){
+        //     ListNode first = prev.next;
+        //     ListNode second = prev.next.next;
+        //     ListNode temp = second.next;
+        //     prev.next = second;
+        //     second.next = first;
+        //     first.next = temp;
+        //     prev = first;
+        // }
         
-        return dummy.next;
+        return solve(dummy, prev);
+    }
+
+    public ListNode solve(ListNode dummy, ListNode prev){
+
+        if(prev.next == null || prev.next.next == null){
+            return dummy.next;
+        }
+        ListNode first = prev.next;
+        ListNode second = prev.next.next;
+        ListNode temp = second.next;
+        prev.next = second;
+        second.next = first;
+        first.next = temp;
+        prev = first;
+
+        return solve(dummy, prev);
     }
 }
