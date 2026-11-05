@@ -12,29 +12,46 @@ class Solution {
     public ListNode swapPairs(ListNode head) {
         if(head == null) return null;
 
-        List<ListNode> arr = new ArrayList<>();
+        if(head.next == null) return head;
+        // List<ListNode> arr = new ArrayList<>();
 
-        while(head != null){
-            ListNode temp = head;
-            head = head.next;
-            arr.add(temp);
-        }
+        // while(head != null){
+        //     ListNode temp = head;
+        //     head = head.next;
+        //     arr.add(temp);
+        // }
 
-        for(int i=0; i<arr.size();i+=2){
-            if(i+1<=arr.size()-1){
-                Collections.swap(arr, i, i+1);
-            }
-        }
+        // for(int i=0; i<arr.size();i+=2){
+        //     if(i+1<=arr.size()-1){
+        //         Collections.swap(arr, i, i+1);
+        //     }
+        // }
+
+        // ListNode dummy = new ListNode(-1);
+        // ListNode tail = dummy;
+
+        // for(ListNode node : arr){
+        //     tail.next = node;
+        //     tail = tail.next;  
+        // }
+
+        // tail.next = null;
+        // return dummy.next;
 
         ListNode dummy = new ListNode(-1);
-        ListNode tail = dummy;
+        dummy.next = head;
+        ListNode prev = dummy;
 
-        for(ListNode node : arr){
-            tail.next = node;
-            tail = tail.next;  
+        while(prev.next != null && prev.next.next != null){
+            ListNode first = prev.next;
+            ListNode second = prev.next.next;
+            ListNode temp = second.next;
+            prev.next = second;
+            second.next = first;
+            first.next = temp;
+            prev = first;
         }
-
-        tail.next = null;
+        
         return dummy.next;
     }
 }
