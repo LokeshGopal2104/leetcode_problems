@@ -218,6 +218,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0050-powx-n/) | Medium |
 | [0070-climbing-stairs](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0509-fibonacci-number/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -315,6 +316,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0050-powx-n/) | Medium |
 | [0509-fibonacci-number](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
