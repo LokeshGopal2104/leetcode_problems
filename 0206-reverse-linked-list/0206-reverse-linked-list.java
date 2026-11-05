@@ -13,13 +13,26 @@ class Solution {
         ListNode prev = null;
         ListNode curr = head;
         // ListNode next = curr.next;
-        while(curr != null){
-            ListNode temp = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = temp;
-        }
+        // while(curr != null){
+        //     ListNode temp = curr.next;
+        //     curr.next = prev;
+        //     prev = curr;
+        //     curr = temp;
+        // }
 
-        return prev;
+        return solve(curr, prev);
+    }
+
+    public ListNode solve(ListNode curr, ListNode prev){
+        if(curr == null) return prev;
+
+        ListNode temp = curr.next;
+        curr.next = prev;
+        prev = curr;
+        curr = temp;
+
+        return solve(curr, prev);
+
+        
     }
 }
