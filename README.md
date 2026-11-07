@@ -35,6 +35,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0435-non-overlapping-intervals](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0455-assign-cookies/) | Easy |
+| [0491-non-decreasing-subsequences](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0605-can-place-flowers](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0605-can-place-flowers/) | Easy |
 | [0621-task-scheduler](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0621-task-scheduler/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -62,6 +63,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0037-sudoku-solver](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0037-sudoku-solver/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0491-non-decreasing-subsequences](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0621-task-scheduler](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0740-delete-and-earn](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0740-delete-and-earn/) | Medium |
@@ -117,6 +119,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0093-restore-ip-addresses](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0216-combination-sum-iii/) | Medium |
+| [0491-non-decreasing-subsequences](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -352,6 +355,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | ------- | ------- |
 | [0078-subsets](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0090-subsets-ii/) | Medium |
+| [0491-non-decreasing-subsequences](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
