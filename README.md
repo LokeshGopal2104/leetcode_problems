@@ -20,6 +20,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0055-jump-game](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0055-jump-game/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0090-subsets-ii/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0134-gas-station/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -111,6 +112,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0051-n-queens](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0051-n-queens/) | Hard |
 | [0077-combinations](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0090-subsets-ii/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0216-combination-sum-iii/) | Medium |
@@ -346,4 +348,5 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0090-subsets-ii/) | Medium |
 <!---LeetCode Topics End-->
