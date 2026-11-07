@@ -52,6 +52,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1710-maximum-units-on-a-truck/) | Easy |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2140-solving-questions-with-brainpower](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -116,6 +117,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0093-restore-ip-addresses](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0216-combination-sum-iii/) | Medium |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -233,6 +235,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0509-fibonacci-number](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0509-fibonacci-number/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -349,4 +352,13 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | ------- | ------- |
 | [0078-subsets](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0090-subsets-ii/) | Medium |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 <!---LeetCode Topics End-->
