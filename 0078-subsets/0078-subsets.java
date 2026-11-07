@@ -10,18 +10,28 @@ class Solution {
         return res;
     }
 
-    public void solve(int [] nums, int n, int i, List<List<Integer>> res, List<Integer> curr){
-        if(i == n){
-            res.add(new ArrayList<>(curr));
-            return;
+    public void solve(int [] nums, int n, int start, List<List<Integer>> res, List<Integer> curr){
+        // if(i == n){
+        //     res.add(new ArrayList<>(curr));
+        //     return;
+        // }
+
+        // curr.add(nums[i]);
+
+        // solve(nums, n, i+1, res, curr);
+
+        // curr.remove(curr.size()-1);
+
+        // solve(nums, n, i+1, res, curr);
+
+        res.add(new ArrayList<>(curr));
+
+        for(int i = start; i < n; i++){
+                curr.add(nums[i]);
+
+                solve(nums, n, i+1, res, curr);
+
+                curr.remove(curr.size()-1);
         }
-
-        curr.add(nums[i]);
-
-        solve(nums, n, i+1, res, curr);
-
-        curr.remove(curr.size()-1);
-
-        solve(nums, n, i+1, res, curr);
     }
 }
