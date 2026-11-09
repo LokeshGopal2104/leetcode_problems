@@ -1,34 +1,45 @@
 class Solution {
     public List<List<Integer>> permuteUnique(int[] nums) {
-        List<List<Integer>> result = new ArrayList<>();
-        List<Integer> path = new ArrayList<>();
 
-        boolean [] used = new boolean[nums.length];
-        Arrays.sort(nums);
-        backtrack(nums,used,path,result);
+        Set<List<Integer>> set = new HashSet<>();
+
+        List<Integer> current = new ArrayList<>();
+        List<List<Integer>> result = new ArrayList<>();
+
+        boolean[] used = new boolean[nums.length];
+
+        solve(nums, used, current, set, result);
 
         return result;
     }
 
-    public void backtrack(int [] nums, boolean [] used, List<Integer> path,List<List<Integer>> result){
-        if(path.size() == nums.length){
-            result.add(new ArrayList<>(path));
+    public void solve(int[] nums, boolean[] used,
+                      List<Integer> current,
+                      Set<List<Integer>> set,
+                      List<List<Integer>> result) {
+
+        if (current.size() == nums.length) {
+
+            if (!set.contains(current)) {
+                result.add(new ArrayList<>(current));
+                set.add(new ArrayList<>(current));
+            }
+
             return;
         }
 
-        for(int i = 0; i < nums.length; i++){
-            if(used[i]) continue;
+        for (int i = 0; i < nums.length; i++) {
 
-            if(i>0 && nums[i] == nums[i-1] && !used[i-1]){
-                    continue;
+            if (used[i]) {
+                continue;
             }
 
-            path.add(nums[i]);
+            current.add(nums[i]);
             used[i] = true;
 
-            backtrack(nums,used,path,result);
+            solve(nums, used, current, set, result);
 
-            path.remove(path.size()-1);
+            current.remove(current.size() - 1);
             used[i] = false;
         }
     }
