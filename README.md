@@ -11,6 +11,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0027-remove-element/) | Easy |
 | [0037-sudoku-solver](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0037-sudoku-solver/) | Hard |
+| [0039-combination-sum](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0040-combination-sum-ii/) | Medium |
 | [0045-jump-game-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0046-permutations/) | Medium |
@@ -112,6 +113,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0017-letter-combinations-of-a-phone-number](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0037-sudoku-solver](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0037-sudoku-solver/) | Hard |
+| [0039-combination-sum](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0047-permutations-ii/) | Medium |
