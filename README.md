@@ -20,6 +20,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0053-maximum-subarray](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0055-jump-game/) | Medium |
 | [0063-unique-paths-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0090-subsets-ii/) | Medium |
@@ -98,6 +99,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0055-jump-game](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0091-decode-ways](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0091-decode-ways/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -164,6 +166,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0037-sudoku-solver/) | Hard |
 | [0063-unique-paths-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 ## Dancing Links
