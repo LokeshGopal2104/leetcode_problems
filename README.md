@@ -24,6 +24,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0074-search-a-2d-matrix](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0090-subsets-ii/) | Medium |
+| [0120-triangle](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0120-triangle/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0134-gas-station/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -103,6 +104,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0064-minimum-path-sum](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0091-decode-ways](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0091-decode-ways/) | Medium |
+| [0120-triangle](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0120-triangle/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0198-house-robber](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0198-house-robber/) | Medium |
