@@ -34,6 +34,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0213-house-robber-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0216-combination-sum-iii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0216-combination-sum-iii/) | Medium |
+| [0221-maximal-square](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0221-maximal-square/) | Medium |
 | [0283-move-zeroes](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0406-queue-reconstruction-by-height](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0406-queue-reconstruction-by-height/) | Medium |
@@ -109,6 +110,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0131-palindrome-partitioning](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0198-house-robber](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0213-house-robber-ii/) | Medium |
+| [0221-maximal-square](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0221-maximal-square/) | Medium |
 | [0392-is-subsequence](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0392-is-subsequence/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0509-fibonacci-number/) | Easy |
@@ -172,6 +174,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0063-unique-paths-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0221-maximal-square](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0221-maximal-square/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 ## Dancing Links
