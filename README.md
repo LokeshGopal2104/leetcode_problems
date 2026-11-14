@@ -38,6 +38,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0283-move-zeroes](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0406-queue-reconstruction-by-height](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0406-queue-reconstruction-by-height/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0455-assign-cookies/) | Easy |
@@ -113,6 +114,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0213-house-robber-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0213-house-robber-ii/) | Medium |
 | [0221-maximal-square](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0221-maximal-square/) | Medium |
 | [0392-is-subsequence](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0392-is-subsequence/) | Easy |
+| [0416-partition-equal-subset-sum](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0509-fibonacci-number/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
@@ -392,4 +394,12 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0416-partition-equal-subset-sum/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0416-partition-equal-subset-sum/) | Medium |
 <!---LeetCode Topics End-->
