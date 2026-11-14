@@ -1,10 +1,13 @@
 class Solution {
     public int findTargetSumWays(int[] nums, int target) {
-        
+
         int sum = 0;
         for(int num : nums){
             sum += num;
         }
+
+        if (Math.abs(target) > sum) return 0;
+
         int [][] dp = new int[nums.length][2*sum+1]; 
 
         for(int [] row : dp){
