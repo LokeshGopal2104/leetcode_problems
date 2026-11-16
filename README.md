@@ -44,6 +44,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0435-non-overlapping-intervals](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0455-assign-cookies/) | Easy |
+| [0474-ones-and-zeroes](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0494-target-sum](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0518-coin-change-ii/) | Medium |
@@ -95,6 +96,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0345-reverse-vowels-of-a-string](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0392-is-subsequence/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0844-backspace-string-compare](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0844-backspace-string-compare/) | Easy |
@@ -122,6 +124,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0392-is-subsequence](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0392-is-subsequence/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0509-fibonacci-number/) | Easy |
 | [0518-coin-change-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0518-coin-change-ii/) | Medium |
@@ -409,12 +412,14 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | ------- | ------- |
 | [0322-coin-change](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0518-coin-change-ii/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0494-target-sum/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
