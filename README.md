@@ -119,6 +119,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0198-house-robber](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0213-house-robber-ii/) | Medium |
 | [0221-maximal-square](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0221-maximal-square/) | Medium |
+| [0279-perfect-squares](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0322-coin-change/) | Medium |
 | [0377-combination-sum-iv](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0377-combination-sum-iv/) | Medium |
 | [0392-is-subsequence](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0392-is-subsequence/) | Easy |
@@ -275,6 +276,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0050-powx-n](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0070-climbing-stairs/) | Easy |
+| [0279-perfect-squares](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0279-perfect-squares/) | Medium |
 | [0509-fibonacci-number](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0509-fibonacci-number/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -353,6 +355,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0279-perfect-squares](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0322-coin-change/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Quicksort
@@ -410,6 +413,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0279-perfect-squares](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0474-ones-and-zeroes/) | Medium |
@@ -424,6 +428,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0279-perfect-squares](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0518-coin-change-ii/) | Medium |
 <!---LeetCode Topics End-->
