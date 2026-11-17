@@ -61,6 +61,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0973-k-closest-points-to-origin](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1046-last-stone-weight](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1046-last-stone-weight/) | Easy |
+| [1049-last-stone-weight-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
@@ -133,6 +134,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0740-delete-and-earn](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [1049-last-stone-weight-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [2140-solving-questions-with-brainpower](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/2140-solving-questions-with-brainpower/) | Medium |
@@ -419,12 +421,14 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0474-ones-and-zeroes](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0518-coin-change-ii/) | Medium |
+| [1049-last-stone-weight-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1049-last-stone-weight-ii/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0494-target-sum/) | Medium |
+| [1049-last-stone-weight-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1049-last-stone-weight-ii/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
