@@ -136,6 +136,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0931-minimum-falling-path-sum](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1155-number-of-dice-rolls-with-target-sum/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [2140-solving-questions-with-brainpower](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 ## Backtracking
