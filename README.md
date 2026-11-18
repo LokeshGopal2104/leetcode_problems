@@ -102,6 +102,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0680-valid-palindrome-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0844-backspace-string-compare](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0844-backspace-string-compare/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -138,6 +139,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0931-minimum-falling-path-sum](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1155-number-of-dice-rolls-with-target-sum/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [2140-solving-questions-with-brainpower](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/2140-solving-questions-with-brainpower/) | Medium |
@@ -441,4 +443,8 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0279-perfect-squares](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0518-coin-change-ii/) | Medium |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
