@@ -52,6 +52,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0621-task-scheduler](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0621-task-scheduler/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0704-binary-search](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0704-binary-search/) | Easy |
 | [0740-delete-and-earn](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0740-delete-and-earn/) | Medium |
@@ -131,6 +132,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0509-fibonacci-number](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0509-fibonacci-number/) | Easy |
 | [0518-coin-change-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0518-coin-change-ii/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0740-delete-and-earn](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0931-minimum-falling-path-sum/) | Medium |
@@ -369,14 +371,17 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0406-queue-reconstruction-by-height/) | Medium |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0406-queue-reconstruction-by-height/) | Medium |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 ## Longest Increasing Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
