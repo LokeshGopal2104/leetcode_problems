@@ -104,6 +104,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0692-top-k-frequent-words](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0844-backspace-string-compare](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0844-backspace-string-compare/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -144,6 +145,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [1143-longest-common-subsequence](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1155-number-of-dice-rolls-with-target-sum/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [2140-solving-questions-with-brainpower](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
