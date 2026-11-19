@@ -103,6 +103,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0680-valid-palindrome-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0844-backspace-string-compare](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0844-backspace-string-compare/) | Easy |
+| [1092-shortest-common-supersequence](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -141,6 +142,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0746-min-cost-climbing-stairs](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1049-last-stone-weight-ii/) | Medium |
+| [1092-shortest-common-supersequence](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1137-n-th-tribonacci-number](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1155-number-of-dice-rolls-with-target-sum/) | Medium |
@@ -450,5 +452,6 @@ This repository contains leetcode problems that i haved solved my self on leetco
 ## Longest Common Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1092-shortest-common-supersequence](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
