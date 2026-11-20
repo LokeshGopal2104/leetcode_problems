@@ -92,6 +92,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0022-generate-parentheses](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0091-decode-ways](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0091-decode-ways/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0093-restore-ip-addresses/) | Medium |
+| [0115-distinct-subsequences](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0115-distinct-subsequences/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0179-largest-number](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0179-largest-number/) | Medium |
 | [0344-reverse-string](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0344-reverse-string/) | Easy |
@@ -119,6 +120,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0064-minimum-path-sum](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0091-decode-ways](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0091-decode-ways/) | Medium |
+| [0115-distinct-subsequences](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0115-distinct-subsequences/) | Hard |
 | [0120-triangle](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0120-triangle/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0131-palindrome-partitioning/) | Medium |
