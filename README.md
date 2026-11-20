@@ -25,6 +25,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0078-subsets](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0090-subsets-ii/) | Medium |
 | [0120-triangle](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0120-triangle/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0134-gas-station/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -124,6 +125,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0091-decode-ways](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0091-decode-ways/) | Medium |
 | [0115-distinct-subsequences](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0115-distinct-subsequences/) | Hard |
 | [0120-triangle](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0120-triangle/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0198-house-robber](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0198-house-robber/) | Medium |
