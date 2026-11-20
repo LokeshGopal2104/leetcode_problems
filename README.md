@@ -90,6 +90,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0003-longest-substring-without-repeating-characters](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0022-generate-parentheses/) | Medium |
+| [0072-edit-distance](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0091-decode-ways/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0115-distinct-subsequences](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0115-distinct-subsequences/) | Hard |
@@ -119,6 +120,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0063-unique-paths-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0070-climbing-stairs/) | Easy |
+| [0072-edit-distance](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0091-decode-ways/) | Medium |
 | [0115-distinct-subsequences](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0115-distinct-subsequences/) | Hard |
 | [0120-triangle](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0120-triangle/) | Medium |
