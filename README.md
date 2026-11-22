@@ -70,6 +70,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1710-maximum-units-on-a-truck/) | Easy |
+| [1792-maximum-average-pass-ratio](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1792-maximum-average-pass-ratio/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2140-solving-questions-with-brainpower](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 ## Hash Table
@@ -252,6 +253,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0973-k-closest-points-to-origin](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1046-last-stone-weight/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
+| [1792-maximum-average-pass-ratio](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1792-maximum-average-pass-ratio/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -330,6 +332,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0680-valid-palindrome-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0860-lemonade-change](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0860-lemonade-change/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1710-maximum-units-on-a-truck/) | Easy |
+| [1792-maximum-average-pass-ratio](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1792-maximum-average-pass-ratio/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
