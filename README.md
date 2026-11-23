@@ -69,6 +69,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1792-maximum-average-pass-ratio](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1792-maximum-average-pass-ratio/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -200,6 +201,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0973-k-closest-points-to-origin](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
@@ -305,6 +307,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0509-fibonacci-number](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0509-fibonacci-number/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
@@ -335,6 +338,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0646-maximum-length-of-pair-chain](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0860-lemonade-change](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0860-lemonade-change/) | Easy |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1792-maximum-average-pass-ratio](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1792-maximum-average-pass-ratio/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -473,4 +477,8 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 <!---LeetCode Topics End-->
