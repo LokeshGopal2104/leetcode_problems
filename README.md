@@ -74,6 +74,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [1833-maximum-ice-cream-bars](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2140-solving-questions-with-brainpower](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/2140-solving-questions-with-brainpower/) | Medium |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,6 +202,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -336,6 +338,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [1710-maximum-units-on-a-truck](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1792-maximum-average-pass-ratio](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1792-maximum-average-pass-ratio/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
