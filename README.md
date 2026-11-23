@@ -71,6 +71,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [1480-running-sum-of-1d-array](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1792-maximum-average-pass-ratio](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1792-maximum-average-pass-ratio/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2140-solving-questions-with-brainpower](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 ## Hash Table
@@ -199,6 +200,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0977-squares-of-a-sorted-array](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1710-maximum-units-on-a-truck/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -333,6 +335,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0860-lemonade-change](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0860-lemonade-change/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1792-maximum-average-pass-ratio](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1792-maximum-average-pass-ratio/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -463,4 +466,8 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | ------- | ------- |
 | [1092-shortest-common-supersequence](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1143-longest-common-subsequence/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
