@@ -12,7 +12,7 @@ class Solution {
                 used[i] = true;
                 tens++;
                 five--;
-            }else {
+            }else if(bills[i] == 20){
                 if(tens > 0 && five >0){
                     used[i] = true;
                     tens--;
