@@ -1,29 +1,35 @@
 class Solution {
     public boolean lemonadeChange(int[] bills) {
-        int fives = 0;
+        int n = bills.length;
+        boolean [] used = new boolean[n];
+        int five = 0;
         int tens = 0;
-        
-        for(int i = 0; i< bills.length; i++){
+        for(int i =0;i<n ; i++){
             if(bills[i] == 5){
-                fives++;
-            }else if(bills[i] == 10 && fives>0){
-                fives--;
+                used[i] = true;
+                five++;
+            }else if(bills[i] == 10 && five > 0){
+                used[i] = true;
                 tens++;
-            }else if(bills[i] == 20){
-                if(fives>0 && tens>0){
-                    fives--;
+                five--;
+            }else {
+                if(tens > 0 && five >0){
+                    used[i] = true;
                     tens--;
-                }else if(fives>=3){
-                    fives-=3;
-                }else{
-                    return false;
+                    five--;
+                }
+                else if(five>=3){
+                    used[i] = true;
+                    five-=3;
                 }
                 
-            }else{
-                return false;
             }
-
         }
+
+        for(boolean flag : used){
+            if(flag == false) return false;
+        }
+
         return true;
     }
 }
