@@ -59,6 +59,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0740-delete-and-earn](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0860-lemonade-change](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0860-lemonade-change/) | Easy |
+| [0871-minimum-number-of-refueling-stops](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [0931-minimum-falling-path-sum](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -150,6 +151,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0673-number-of-longest-increasing-subsequence](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0740-delete-and-earn](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0871-minimum-number-of-refueling-stops](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [0931-minimum-falling-path-sum](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1092-shortest-common-supersequence/) | Hard |
@@ -256,6 +258,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0621-task-scheduler](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0871-minimum-number-of-refueling-stops](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [0973-k-closest-points-to-origin](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1046-last-stone-weight/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
@@ -338,6 +341,7 @@ This repository contains leetcode problems that i haved solved my self on leetco
 | [0646-maximum-length-of-pair-chain](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0860-lemonade-change](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0860-lemonade-change/) | Easy |
+| [0871-minimum-number-of-refueling-stops](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1792-maximum-average-pass-ratio](https://github.com/LokeshGopal2104/leetcode_problems/tree/main/1792-maximum-average-pass-ratio/) | Medium |
